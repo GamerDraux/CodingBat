@@ -17,5 +17,7 @@ public class Main {
     System.out.println((ten.makes10(9,1)));
     NearHundred near = new NearHundred();
     System.out.println(near.nearHundred(207));
+    PosNeg posNeg = new PosNeg();
+    System.out.println(posNeg.posNeg(-1, 2, true));
     }
 }
