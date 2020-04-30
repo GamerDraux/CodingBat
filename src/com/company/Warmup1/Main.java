@@ -19,5 +19,8 @@ public class Main {
     System.out.println(near.nearHundred(207));
     PosNeg posNeg = new PosNeg();
     System.out.println(posNeg.posNeg(-1, 2, true));
+    NotString not = new NotString();
+    System.out.println(not.notString("not is not"));
+
     }
 }
