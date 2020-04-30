@@ -5,5 +5,13 @@ public class Main {
     public static void main(String[] args) {
 	SleepIn nappy = new SleepIn();
 	System.out.println(nappy.sleepIn(true,false));
+    MonkeySmile trouble = new MonkeySmile();
+    System.out.println(trouble.monkeyTrouble(true,false));
+    SumDouble dubs = new SumDouble();
+    System.out.println((dubs.sumDouble(2,2)));
+    Diff21 diff = new Diff21();
+    System.out.println(diff.diff21(22));
+    ParrotTrouble talking = new ParrotTrouble();
+    System.out.println(talking.parrotTrouble(true, 23));
     }
 }
