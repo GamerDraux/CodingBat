@@ -13,5 +13,9 @@ public class Main {
     System.out.println(diff.diff21(22));
     ParrotTrouble talking = new ParrotTrouble();
     System.out.println(talking.parrotTrouble(true, 23));
+    Makes10 ten = new Makes10();
+    System.out.println((ten.makes10(9,1)));
+    NearHundred near = new NearHundred();
+    System.out.println(near.nearHundred(207));
     }
 }
