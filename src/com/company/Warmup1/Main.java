@@ -25,6 +25,8 @@ public class Main {
     System.out.println(miss.missingChar("kitten", 4));
     FrontBack fb = new FrontBack();
     System.out.println(fb.frontBack("eodc"));
+    Front3 f3= new Front3();
+    System.out.println(f3.front3("Chocolate"));
 
     }
 }
