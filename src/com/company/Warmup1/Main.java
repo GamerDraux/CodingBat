@@ -21,6 +21,8 @@ public class Main {
     System.out.println(posNeg.posNeg(-1, 2, true));
     NotString not = new NotString();
     System.out.println(not.notString("not is not"));
+    MissingChar miss = new MissingChar();
+    System.out.println(miss.missingChar("kitten", 4));
 
     }
 }
