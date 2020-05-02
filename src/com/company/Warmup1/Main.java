@@ -17,5 +17,6 @@ public class Main {
     System.out.println(Front3.front3("Chocolate"));
     System.out.println(BackAround.backAround("Hello"));
     System.out.println(Or35.or35(137));
+    System.out.println(Front22.front22("kitten"));
     }
 }
