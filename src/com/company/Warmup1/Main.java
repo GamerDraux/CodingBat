@@ -23,6 +23,8 @@ public class Main {
     System.out.println(not.notString("not is not"));
     MissingChar miss = new MissingChar();
     System.out.println(miss.missingChar("kitten", 4));
+    FrontBack fb = new FrontBack();
+    System.out.println(fb.frontBack("eodc"));
 
     }
 }
