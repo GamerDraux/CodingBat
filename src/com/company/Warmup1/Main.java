@@ -19,6 +19,6 @@ public class Main {
     System.out.println(Or35.or35(137));
     System.out.println(Front22.front22("kitten"));
     System.out.println(StartHi.startHi("hi Hello hi"));
-
+    System.out.println(IcyHot.icyHot(-1, 150));
     }
 }
