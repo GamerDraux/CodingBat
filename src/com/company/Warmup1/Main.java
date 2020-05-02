@@ -20,5 +20,6 @@ public class Main {
     System.out.println(Front22.front22("kitten"));
     System.out.println(StartHi.startHi("hi Hello hi"));
     System.out.println(IcyHot.icyHot(-1, 150));
+    System.out.println(In1020.in1020(8,99));
     }
 }
