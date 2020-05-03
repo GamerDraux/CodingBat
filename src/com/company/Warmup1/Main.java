@@ -32,5 +32,8 @@ public class Main {
     System.out.println(Max1020.max1020(19,11));
     System.out.println(StringE.stringE("Heeelo"));
     System.out.println(LastDigit.lastDigit(17, 107));
+    System.out.println(EndUp.endUp("Hello There"));
+    System.out.println(EveryNth.everyNth(
+            "Supercalifragilisticexpialadocious", 2));
     }
 }
