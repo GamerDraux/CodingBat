@@ -12,6 +12,7 @@ public class Main {
                 "heeololeo"));
         System.out.println(StringSplosion.stringSplosion(
                 "Code"));
+        System.out.println(Last2.last2("axxxaaxx"));
 
     }
 }
