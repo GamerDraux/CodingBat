@@ -6,6 +6,8 @@ public class Main {
                 , 5));
         System.out.println(FrontTimes.frontTimes(
                 "Chocolate", 7));
+        System.out.println(CountXX.countXX("xxabcxxx"));
+
 
     }
 }
