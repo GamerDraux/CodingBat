@@ -8,6 +8,10 @@ public class Main {
                 "Chocolate", 7));
         System.out.println(CountXX.countXX("xxabcxxx"));
         System.out.println(DoubleX.doubleX("axaxaxx"));
+        System.out.println(StringBits.stringBits(
+                "heeololeo"));
+        System.out.println(StringSplosion.stringSplosion(
+                "Code"));
 
     }
 }
