@@ -7,7 +7,7 @@ public class Main {
         System.out.println(FrontTimes.frontTimes(
                 "Chocolate", 7));
         System.out.println(CountXX.countXX("xxabcxxx"));
-
+        System.out.println(DoubleX.doubleX("axaxaxx"));
 
     }
 }
