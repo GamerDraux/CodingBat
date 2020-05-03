@@ -26,6 +26,7 @@ public class Main {
     System.out.println(DelDel.delDel("adelbc"));
     System.out.println(MixStart.mixStart("pix snacks"));
     System.out.println(StartOz.startOz("ozymandias"));
+    System.out.println(IntMax.intMax(1,5,3));
 
     }
 }
