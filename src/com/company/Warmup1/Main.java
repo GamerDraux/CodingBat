@@ -24,5 +24,8 @@ public class Main {
     System.out.println(HasTeen.hasTeen(13,20,10));
     System.out.println(LoneTeen.loneTeen(12,15));
     System.out.println(DelDel.delDel("adelbc"));
+    System.out.println(MixStart.mixStart("pix snacks"));
+    System.out.println(StartOz.startOz("ozymandias"));
+
     }
 }
