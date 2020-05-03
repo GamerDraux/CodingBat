@@ -27,6 +27,7 @@ public class Main {
     System.out.println(MixStart.mixStart("pix snacks"));
     System.out.println(StartOz.startOz("ozymandias"));
     System.out.println(IntMax.intMax(1,5,3));
+    System.out.println(Close10.close10(8,13));
 
     }
 }
