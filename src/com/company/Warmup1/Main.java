@@ -30,5 +30,6 @@ public class Main {
     System.out.println(Close10.close10(8,13));
     System.out.println(In3050.in3050(30,31));
     System.out.println(Max1020.max1020(19,11));
+    System.out.println(StringE.stringE("Heeelo"));
     }
 }
