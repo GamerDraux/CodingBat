@@ -29,6 +29,6 @@ public class Main {
     System.out.println(IntMax.intMax(1,5,3));
     System.out.println(Close10.close10(8,13));
     System.out.println(In3050.in3050(30,31));
-
+    System.out.println(Max1020.max1020(19,11));
     }
 }
