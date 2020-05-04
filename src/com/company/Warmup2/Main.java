@@ -15,5 +15,6 @@ public class Main {
         System.out.println(Last2.last2("axxxaaxx"));
         int[] nums ={1,9,9,3,9};
         System.out.println(ArrayCount9.arrayCount9(nums));
+        System.out.println(ArrayFront9.arrayFront9(nums));
     }
 }
