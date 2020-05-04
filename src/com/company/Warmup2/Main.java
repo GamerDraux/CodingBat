@@ -16,5 +16,7 @@ public class Main {
         int[] nums ={1,9,9,3,9};
         System.out.println(ArrayCount9.arrayCount9(nums));
         System.out.println(ArrayFront9.arrayFront9(nums));
+        int[] nums2 = {1,1,2,1,2,3};
+        System.out.println(Array123.array123(nums2));
     }
 }
