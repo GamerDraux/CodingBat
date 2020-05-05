@@ -18,5 +18,7 @@ public class Main {
         System.out.println(ArrayFront9.arrayFront9(nums));
         int[] nums2 = {1,1,2,1,2,3};
         System.out.println(Array123.array123(nums2));
+        System.out.println(StringMatch.stringMatch(
+                "xxcaazz", "xxbaaz"));
     }
 }
