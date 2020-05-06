@@ -20,5 +20,6 @@ public class Main {
         System.out.println(Array123.array123(nums2));
         System.out.println(StringMatch.stringMatch(
                 "xxcaazz", "xxbaaz"));
+        System.out.println(StringX.stringX("xaxbxcx"));
     }
 }
