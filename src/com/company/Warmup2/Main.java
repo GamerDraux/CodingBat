@@ -21,5 +21,7 @@ public class Main {
         System.out.println(StringMatch.stringMatch(
                 "xxcaazz", "xxbaaz"));
         System.out.println(StringX.stringX("xaxbxcx"));
+        System.out.println(AltPairs.altPairs(
+                "CodingHorror"));
     }
 }
