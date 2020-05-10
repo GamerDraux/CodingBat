@@ -23,5 +23,7 @@ public class Main {
         System.out.println(StringX.stringX("xaxbxcx"));
         System.out.println(AltPairs.altPairs(
                 "CodingHorror"));
+        System.out.println(StringYak.stringYak(
+                "yak123yakpak"));
     }
 }
