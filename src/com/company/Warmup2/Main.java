@@ -25,5 +25,7 @@ public class Main {
                 "CodingHorror"));
         System.out.println(StringYak.stringYak(
                 "yak123yakpak"));
+        System.out.println(Array667.array667(new int[]{6,
+                7, 6, 6, 5, 0}));
     }
 }
