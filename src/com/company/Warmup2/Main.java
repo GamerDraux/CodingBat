@@ -27,5 +27,7 @@ public class Main {
                 "yak123yakpak"));
         System.out.println(Array667.array667(new int[]{6,
                 7, 6, 6, 5, 0}));
+        int[] nums3= {1,1,2,2,3};
+        System.out.println(NoTriples.noTriples(nums3));
     }
 }
