@@ -18,5 +18,10 @@ public class Main {
                 ,"There");
         Map<String,String> mapAB= new HashMap<>(amapAB);
         System.out.println(MapAB.mapAB(mapAB));
+        Map<String, String> aTopping1 = Map.of("ice " +
+                "cream", "peanuts","pancake", "syrup");
+        Map<String, String> topping1=
+                new HashMap<>(aTopping1);
+        System.out.println(Topping1.topping1(topping1));
     }
 }
