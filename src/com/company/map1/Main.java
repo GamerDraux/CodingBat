@@ -23,5 +23,10 @@ public class Main {
         Map<String, String> topping1=
                 new HashMap<>(aTopping1);
         System.out.println(Topping1.topping1(topping1));
+        Map<String,String> aTopping2 = Map.of("spinach",
+                "dirt", "ice cream", "cherry");
+        Map<String, String> topping2 =
+                new HashMap<>(aTopping2);
+        System.out.println(Topping2.topping2(topping2));
     }
 }
