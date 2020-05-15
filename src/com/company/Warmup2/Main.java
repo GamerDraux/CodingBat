@@ -1,5 +1,7 @@
 package com.company.Warmup2;
 
+import java.sql.SQLOutput;
+
 public class Main {
     public static void main(String[] args){
         System.out.println(StringTimes.stringTimes("Hiya"
@@ -29,5 +31,7 @@ public class Main {
                 7, 6, 6, 5, 0}));
         int[] nums3= {1,1,2,2,3};
         System.out.println(NoTriples.noTriples(nums3));
+        int[] nums4= {1,2,8,1};
+        System.out.println(Has271.has271(nums4));
     }
 }
