@@ -14,6 +14,9 @@ public class Main {
         mapShare.put("b", "bbb");
         mapShare.put("c", "ccc");
         System.out.println(MapShare.mapShare(mapShare));
-
+        Map<String, String> amapAB = Map.of("a", "Hi", "b"
+                ,"There");
+        Map<String,String> mapAB= new HashMap<>(amapAB);
+        System.out.println(MapAB.mapAB(mapAB));
     }
 }
