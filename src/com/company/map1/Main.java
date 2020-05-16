@@ -33,5 +33,10 @@ public class Main {
         Map<String, String> topping3 =
                 new HashMap<>(aTopping3);
         System.out.println(Topping3.topping3(topping3));
+        Map<String, String> aMapAB2= Map.of("a", "aaa",
+                "b", "aaa", "c", "ccc");
+        Map<String, String> mapAB2 = new HashMap<>(aMapAB2);
+        System.out.println(MapAB2.mapAB2(mapAB2));
+
     }
 }
